@@ -3,7 +3,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 from unidecode import unidecode
 
 from AnonXMusic import app
-from AnonXMusic import SUDOERS
+from AnonXMusic.misc import SUDOERS
 from AnonXMusic.utils.database import (
     get_active_chats,
     get_active_video_chats,
