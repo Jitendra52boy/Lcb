@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/legendtosif/SpotifyxMusic",
+    "https://github.com/MOON-CODES/abhi-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "stable")
 GIT_TOKEN = getenv(
@@ -83,7 +83,7 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/f7e5d91a2deb7828f5c12-2146a446872584a98e.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/9acd828ec45a363add2e9.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/7bb8139ec6c5740d4a308-c62fda2c9d116d87c3.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/yfvai0.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/nef735.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/51cb8a22e65caa4382879.jpg"
