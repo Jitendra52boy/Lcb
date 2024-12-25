@@ -51,7 +51,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("DevilsHeavenMF")
+                await self.one.join_chat("music_x_bot_ll")
                 await self.one.join_chat("FallenAssociation")
             except:
                 pass
