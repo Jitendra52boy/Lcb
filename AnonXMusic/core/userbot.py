@@ -52,7 +52,7 @@ class Userbot(Client):
             await self.one.start()
             try:
                 await self.one.join_chat("music_x_bot_ll")
-                await self.one.join_chat("FallenAssociation")
+                await self.one.join_chat("music_x_bot_ll")
             except:
                 pass
             assistants.append(1)
