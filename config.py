@@ -7,7 +7,7 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "23023763"))
+API_ID = int(getenv("API_ID", "2302376"))
 API_HASH = getenv("API_HASH", "2f8b093168766704796f1acf6a9830b1")
 
 # Get your token from @BotFather on Telegram.
